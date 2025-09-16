@@ -1,22 +1,6 @@
-# 👋 Hi, I'm Lee WooHyeon  
-
-### 💡 About Me
+## 💡 About Me
 > 온프레미스와 클라우드를 아우르는 **하이브리드 인프라 전문가**  
 > 네트워크 설계·운영부터 자동화·보안 강화까지 전반적인 **DevOps 역량을 보유**한 문제 해결 중심의 엔지니어입니다.
-
----
-
-## 📫 Contact
-- 📧 **Email** : iiilee0907@gmail.com  
-- 👾 **GitHub** : [github.com/rainhyeon](https://github.com/rainhyeon)  
-- 📂 **Tistory** : [rainhyeon.tistory.com](https://rainhyeon.tistory.com/)  
-
----
-
-## 🎓 Education
-- 덕성여자대학교 컴퓨터공학과 (2020.03 - 2025.08)  
-- 영신여자고등학교 (2017.03 - 2019.02)  
-
 ---
 
 ## 💼 Experience (총 4개월)
@@ -113,13 +97,12 @@
 
 ---
 
-# 💼 Skills
+## ⭐ Skills
 
 > 레벨 표기: 🟪= 숙련 / ⬜= 미숙련
+<details>
+  <summary><b>Language</b></summary>
 
----
-
-## 🔤 Language
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -146,9 +129,12 @@
   </tr>
 </table>
 
----
+</details>
 
-## 🖥 OS & Shell
+
+<details>
+  <summary><b>OS & Shell</b></summary>
+
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -175,9 +161,11 @@
   </tr>
 </table>
 
----
+</details>
 
-## 🔧 DevOps
+<details>
+  <summary><b>DevOps</b></summary>
+
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -204,9 +192,11 @@
   </tr>
 </table>
 
----
+</details>
 
-## 📦 Container
+<details>
+  <summary><b>Container</b></summary>
+
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -233,9 +223,11 @@
   </tr>
 </table>
 
----
+</details>
 
-## ☁️ Cloud (CSP)
+<details>
+  <summary><b>Cloud (CSP)</b></summary>
+
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -252,33 +244,11 @@
   </tr>
 </table>
 
----
+</details>
 
-## 🧰 Tools
-<table>
-  <tr>
-    <th>Skill</th><th>Level</th><th>Notes</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/git" width="20"/> Git</td>
-    <td>🟪🟪🟪🟪🟪</td>
-    <td>협업/브랜치 전략</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/slack" width="20"/> Slack</td>
-    <td>🟪🟪🟪⬜⬜</td>
-    <td>알림/DevOps 연동</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/jira" width="20"/> Jira</td>
-    <td>🟪🟪🟪⬜⬜</td>
-    <td>이슈/스프린트 관리</td>
-  </tr>
-</table>
+<details>
+  <summary><b>IaC</b></summary>
 
----
-
-## 🏗 IaC
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -300,9 +270,11 @@
   </tr>
 </table>
 
----
+</details>
 
-## 🗄 Database
+<details>
+  <summary><b>Database</b></summary>
+
 <table>
   <tr>
     <th>Skill</th><th>Level</th><th>Notes</th>
@@ -323,3 +295,31 @@
     <td>문서형 DB 기초</td>
   </tr>
 </table>
+
+</details>
+
+<details>
+  <summary><b>Tools</b></summary>
+
+<table>
+  <tr>
+    <th>Skill</th><th>Level</th><th>Notes</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/git" width="20"/> Git</td>
+    <td>🟪🟪🟪🟪🟪</td>
+    <td>협업/브랜치 전략</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/slack" width="20"/> Slack</td>
+    <td>🟪🟪🟪⬜⬜</td>
+    <td>알림/DevOps 연동</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/jira" width="20"/> Jira</td>
+    <td>🟪🟪🟪⬜⬜</td>
+    <td>이슈/스프린트 관리</td>
+  </tr>
+</table>
+
+</details>
