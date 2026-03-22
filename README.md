@@ -46,10 +46,12 @@
 ---
 
 ## 📜 Qualifications
-- 🧾 정보처리기사 (2025.09.12)  
-- 🌐 CCNA (2025.03.17)  
-- 💾 SQL 개발자 (SQLD) (2022.12.02)  
-- 🗣 TOEIC Speaking (IH) (2024.06.08)  
+- Certified Kubernetes Administrator (2026.02.02)
+- AWS Certified Solutions Architect - Associate (2025.12.22)
+- 정보처리기사 (2025.09.12)  
+- CCNA (2025.03.17)  
+- SQL 개발자 (SQLD) (2022.12.02)  
+- TOEIC Speaking (IH) (2024.06.08)  
 
 ---
 
