@@ -28,7 +28,7 @@
 <details>
 <summary><b>수상 경력 펼치기</b></summary>
 
-- 🥈 **LIFTIFY 프로젝트 (우수상)** — AWS Korea & RAPA (2025.07.11)  
+- 🥇 **LIFTIFY 프로젝트 (우수상)** — AWS Korea & RAPA (2025.07.11)  
   단계별 마이그레이션과 MSA 구조 추천을 통한 Cloud Native 전환 솔루션 혁신성 인정  
 
 - ⭐ **AWS Cloud School 8 모범상 (개인)** — AWS Korea & RAPA (2025.07.11)  
