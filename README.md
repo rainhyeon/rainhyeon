@@ -59,7 +59,7 @@
 
 - **목적** : 온프레미스 → AWS 자동 마이그레이션 (Infra → DB → App), MSA 구조 전환 자동화  
 - **기술 스택** : EKS, ECR, RDS, DynamoDB, DMS, S3, Bedrock, CodeBuild, Jenkins, ArgoCD, Terraform, Step Functions, EventBridge, Slack 등  
-- **성과** : 전체 이관 소요시간 62% 단축, Terraform 코드 정확도 98% 향상  
+- **성과** : 인프라 이관 소요시간 1주일에서 4시간 이내 단축, Terraform 코드 정확도 98% 향상  
 - **시연 영상** : [Infra](https://youtu.be/u5mxL9T5f1E) | [DB](https://youtu.be/DnJUB3bH_rc) | [App](https://youtu.be/DSZxG3gsO7Q) | [FinalReport](https://youtu.be/4Bj82-InGO4)  
 - **GitHub** : [Terraform 코드](https://github.com/rainhyeon/TerraCloudTest) | [Lambda & Step Functions](https://github.com/rainhyeon/AWS8_Final_Project)  
 - **PDF** : [자료 보기](https://drive.google.com/file/d/1xP2rMU9oImp3Ymgez3LvGyK-lAJBVwYS/view?usp=sharing)  
@@ -70,9 +70,10 @@
 
 - **목적** : Kubernetes 기반 실시간 채팅 서비스 + 로그 수집/분석  
 - **기술 스택** : Kafka, ELK Stack, Spring Boot, React, Jenkins, ArgoCD  
-- **성과** : Kafka 접근 오류, Elasticsearch 인증 이슈, K8s 외부 접근 문제 해결  
-- **GitHub** : [Repo Link](https://github.com/rainhyeon/Kafka_ChattingService)  
-- **PDF** : [자료 보기](https://drive.google.com/file/d/1YfYZk6o6DTt_AcdB-XJWwDIgffIpEf4G/view?usp=sharing)  
+- **성과** :
+  - Control Plane 장애 테스트를 통해 클러스터 운영 연속성 검증(**`3초`** 내 복구)
+  - 모니터링 환경 구축으로 장애 분석 시간 **`2시간에서 30분으로 단축`**
+- **GitHub** : [Repo Link](https://github.com/rainhyeon/Kafka_ChattingService)
 </details>
 
 <details>
@@ -83,15 +84,6 @@
 - **성과** : Nginx Reverse Proxy 통신 문제 해결, DB 부팅 순서 문제 해결  
 - **GitHub** : [Repo Link](https://github.com/rainhyeon/React_SpringBoot_MySQL_MSA_Proj)  
 - **PDF** : [자료 보기](https://drive.google.com/file/d/1MNPXludWGPB8ebn9I7Pb32jVjI00oQCx/view?usp=sharing)  
-</details>
-
-<details>
-<summary><b>AWS 기반 기업 맞춤형 아키텍처 설계</b></summary>
-
-- **목적** : 금융사 보안 아키텍처, SaaS 기업 글로벌 고가용성 아키텍처 설계  
-- **기술 스택** : VPC TGW, API Gateway, Lambda, Aurora, DynamoDB, CloudFront, Route53, Auto Scaling  
-- **성과** : Transit Gateway 채택, API Gateway CORS 문제 해결, AutoScaling IP 할당 문제 해결  
-- **PDF** : [자료 보기](https://drive.google.com/file/d/1tVpqXlPBAS2gctZAnPO_RUfTPC0KfAF7/view?usp=sharing)  
 </details>
 
 ---
